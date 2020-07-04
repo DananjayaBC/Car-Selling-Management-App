@@ -1,0 +1,2 @@
+﻿INSERT INTO [dbo].[vehical] ([vehicalNumber], [Brand], [Name], [Year], [enginCc], [fuelType], [Price]) VALUES (N'1000                ', N'TOYOTA              ', N'dsggds              ', N'dsggsd              ', N'sdgsdg              ', N'Desel               ', N'dgsgdgd             ')
+INSERT INTO [dbo].[vehical] ([vehicalNumber], [Brand], [Name], [Year], [enginCc], [fuelType], [Price]) VALUES (N'1001                ', N'NISSAN              ', N'fhfgf               ', N'sfgfgs              ', N'fsgsgf              ', N'Petrol              ', N'rwerer              ')
